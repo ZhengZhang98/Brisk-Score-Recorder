@@ -1,6 +1,6 @@
 # Brisk-Score-Recorder
 The Alexa App that records the brisk score.
-This is a hackathone project that Ross and I finished in two days. We use the Alexa-Skills-Kit sdk for NodeJs to build the voice assistant
+This is a hackathone project that Ross and I finished in one days. We use the Alexa-Skills-Kit sdk for NodeJs to build the voice assistant
  that help users to update and track their scores when they play Brisk(an Italian poker game).
  ## Code Structure and Description
  ### AVS
